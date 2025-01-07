@@ -13,7 +13,7 @@ Soy un estudiante de programación, en concreto del Ciclo Formativo de Grado Sup
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
         
-- 🎏 Si prefieres ver el repositorio en inglés, puedes hacerlo aquí: <a href="">Inglés</a>
+- 🎏 Si prefieres ver el repositorio en inglés, puedes hacerlo aquí: <a href="https://github.com/JaimeBonBol/JaimeBonBol/blob/main/README.md">Inglés</a>
 
 <h3>Estadísticas de GitHub:</h3> 
 
