@@ -4,11 +4,11 @@
 
  <h3> 👨🏻‍💻 About me</h3>
 
-I am a programming student, specifically Cross-Platform Application Development. I love to learn and build something new, productive, innovative and creative.
+I am a programming student, specifically Cross-Platform Application Development. I love learn and build something new, productive, innovative and creative.
 
 - 🤔 I like exploring new technologies and developing programming insights.
 
-- 📚 During the course I’m currently learning ... <br></br>
+- 📚 During the course I’m learning ... <br></br>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="25"/>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="25"/>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
