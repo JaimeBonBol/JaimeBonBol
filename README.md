@@ -14,7 +14,7 @@ I am a programming student, specifically Cross-Platform Application Development.
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
         
-- 🎏 If you prefer to see the repository on spanish, you can do it here: <a href="https://github.com/JaimeBonBol/JaimeBonBol/blob/main/READMESPANISH.md">Spanish</a>
+- 🎏 If you prefer to see the repository in spanish, you can do it here: <a href="https://github.com/JaimeBonBol/JaimeBonBol/blob/main/READMESPANISH.md">Spanish</a>
 
 <h3>Github stats:</h3> 
 
