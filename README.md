@@ -4,7 +4,7 @@
 <img src="https://github.com/JaimeBonBol/JaimeBonBol/blob/main/bannerGitHub.png">
 </div>
 
-<img align="right" width=300px src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJsaTlwMHV2ZGI2NnlsaDA1aXJsN3VlYmIxbmR3OTlyOXo2Znp1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FLh0clsMqjbLB9jISi/giphy.gif" />
+
 
  <h3> 👨🏻‍💻 About me</h3>
 
