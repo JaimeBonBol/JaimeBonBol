@@ -1,5 +1,9 @@
 <h1 align="center">Hola, Soy Jaime <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<div align:"center">
+<img src="https://github.com/JaimeBonBol/JaimeBonBol/blob/main/bannerGitHub.png">
+</div>
+
 <img align="right" width=300px src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJsaTlwMHV2ZGI2NnlsaDA1aXJsN3VlYmIxbmR3OTlyOXo2Znp1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FLh0clsMqjbLB9jISi/giphy.gif" />
 
  <h3> 👨🏻‍💻 Sobre mi</h3>
