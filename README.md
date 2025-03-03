@@ -20,5 +20,6 @@ I am a programming student, specifically Cross-Platform Application Development.
 
 <h3>Github stats:</h3> 
 
-[![](https://github-readme-stats.vercel.app/api?username=JaimeBonBol&show_icons=true&hide_border=true&locale=en)](https://github.com/JaimeBonBol)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeBonBol&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=JaimeBonBol&show_icons=true&count_private=true&include_all_commits=true&theme=transparent)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeBonBol&theme=transparent&layout=compact)
