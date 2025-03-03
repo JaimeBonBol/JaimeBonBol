@@ -19,6 +19,6 @@ Soy un estudiante de programación, en concreto del Ciclo Formativo de Grado Sup
 
 <h3>Estadísticas de GitHub:</h3> 
 
-[![](https://github-readme-stats.vercel.app/api?username=JaimeBonBol&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JaimeBonBol)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeBonBol&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://github-readme-stats.vercel.app/api?username=JaimeBonBol&show_icons=true&count_private=true&include_all_commits=true&theme=transparent)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeBonBol&theme=transparent&layout=compact)
