@@ -4,8 +4,6 @@
 <img src="https://github.com/JaimeBonBol/JaimeBonBol/blob/main/bannerGitHub.png">
 </div>
 
-
-
  <h3> 👨🏻‍💻 About me</h3>
 
 I am a programming student, specifically Cross-Platform Application Development. I love learn and build something new, productive, innovative and creative.
@@ -22,5 +20,5 @@ I am a programming student, specifically Cross-Platform Application Development.
 
 <h3>Github stats:</h3> 
 
-[![](https://github-readme-stats.vercel.app/api?username=JaimeBonBol&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JaimeBonBol)
+[![](https://github-readme-stats.vercel.app/api?username=JaimeBonBol&show_icons=true&theme=tokyonight&hide_border=true&locale=en&theme=transparent)](https://github.com/JaimeBonBol)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeBonBol&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
