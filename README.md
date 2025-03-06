@@ -6,7 +6,7 @@
 
  <h3> 👨🏻‍💻 About me</h3>
 
-I am a programming student, specifically Cross-Platform Application Development. I love learn and build something new, productive, innovative and creative.
+I am a programming student, specifically Multiplatform Application Development. I love learn and build something new, productive, innovative and creative.
 
 - 🤔 I like exploring new technologies and developing programming insights.
 
