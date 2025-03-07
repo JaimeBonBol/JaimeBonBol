@@ -1,7 +1,7 @@
 <h1 align="center">Hola, Soy Jaime <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align:"center">
-<img src="https://github.com/JaimeBonBol/JaimeBonBol/blob/main/bannerGitHub.png">
+<img src="https://github.com/JaimeBonBol/JaimeBonBol/blob/main/Banner.png">
 </div>
 
  <h3> 👨🏻‍💻 Sobre mi</h3>
