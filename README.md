@@ -21,8 +21,6 @@ I am a programming student, specifically Multiplatform Application Development. 
 <h3>Github stats:</h3> 
 
 <div text-align:center>
-  <img src="https://github-readme-stats.vercel.app/api?username=JaimeBonBol&show_icons=true&count_private=true&include_all_commits=true&theme=transparent"/>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeBonBol&theme=transparent&layout=compact"/><br>
-  <img src="https://git-hub-streak-stats.vercel.app/?user=JaimeBonBol&theme=transparent"/>
+  <img src="https://git-hub-streak-stats.vercel.app/?user=JaimeBonBol&theme=transparent"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeBonBol&theme=transparent&layout=compact"/><br>
 </div>
