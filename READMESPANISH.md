@@ -1,6 +1,6 @@
 <h1 align="center">Hola, Soy Jaime <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-![Banner](https://github.com/JaimeBonBol/JaimeBonBol/blob/main/bannerGitHub.png)
+![Banner](https://github.com/JaimeBonBol/JaimeBonBol/blob/main/img_banner.png)
 
 ---
 
@@ -39,7 +39,9 @@ Soy un estudiante de programación, en concreto del Ciclo Formativo de Grado Sup
 - Si prefieres ver el repositorio en inglés, puedes hacerlo aquí: <a href="https://github.com/JaimeBonBol/JaimeBonBol/blob/main/README.md">Inglés</a>
 
 ### Estadísticas de GitHub:
+<div align= "center">
 
 ![](https://github-readme-stats.vercel.app/api?username=JaimeBonBol&show_icons=true&count_private=true&include_all_commits=true&theme=transparent)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeBonBol&theme=transparent&layout=compact)
+</div>
