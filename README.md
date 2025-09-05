@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm Jaime <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--<h1 align="center">Hi , I'm Jaime <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>-->
 
-![Banner](https://github.com/JaimeBonBol/JaimeBonBol/blob/main/banner_github.png)
+![Banner](https://github.com/JaimeBonBol/JaimeBonBol/blob/main/banner.png)
 
 ---
 
@@ -8,7 +8,30 @@
 
 ##  👨‍💻About Me
 
-I am a programming student, specifically Multiplatform Application Development. I love learn and build something new, productive, innovative and creative as like exploring new technologies and developing programming insights.
+ ``` java
+// 👋 Welcome to my GitHub profile!
+public class AboutMe {
+
+    String name = "Jaime Bonilla";
+
+    String[] passions = {"Programming", "Traveling", "Technology", "Innovation"};
+
+    String[] languages = {"Java", "JavaScript", "HTML", "CSS", "SQL"};
+
+
+    public void introduceYourself() {
+        System.out.println("Hello! I'm " + name + " 👋");
+        System.out.println("I code in " + String.join(", ", languages) + " 💻");
+        System.out.println("When I'm not coding, I love: " + String.join(", ", passions) + " 🌟");
+
+        System.out.println("Fun fact: I turn ideas into projects and coffee into code ☕🚀");
+    }
+}
+```
+</br>
+
+> ***I love learn and build something new, productive and creative as like exploring new technologies and developing programming insights.***
+
 
 </br>
 </br>
