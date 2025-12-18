@@ -90,6 +90,14 @@ public class AboutMe {
 
 ## 🚀Github stats:
 
+<div style="display: flex">
+  <p align="center">
+   <img src="https://git-hub-streak-stats.vercel.app/?user=JaimeBonBol&theme=transparent"/>&nbsp;&nbsp;&nbsp;
+   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeBonBol&theme=transparent&layout=compact&include_all_commits=true&count_private=true"/>
+  </p>
+</div>
+<!--
 ![Contributions and streak](https://git-hub-streak-stats.vercel.app/?user=JaimeBonBol&theme=transparent)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeBonBol&theme=transparent&layout=compact)
+-->
