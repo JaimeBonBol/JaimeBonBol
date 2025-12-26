@@ -87,7 +87,7 @@ public class AboutMe {
 
 </br>
 
-
+<!--
 ## 🚀Github stats:
 
 <div style="display: flex">
